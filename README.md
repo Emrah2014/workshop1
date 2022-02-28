@@ -1,2 +1,2 @@
 # workshop1
-This is a demo application for workshop
+This appliation is going to be a bootstrap create app. I did a bit more changes
